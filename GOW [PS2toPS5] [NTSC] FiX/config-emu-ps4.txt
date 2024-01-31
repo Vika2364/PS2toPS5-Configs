@@ -1,0 +1,9 @@
+--host-display-mode=16:9
+--cdvd-sector-read-cycles=40000
+--gs-adaptive-frameskip=1
+--gs-progressive=1
+--iop-cycle-scalar=0.10
+--vu1-di-bits=0
+--vu1-jalr-cache-policy=newprog
+
+--gs-kernel-cl-up="up2x2skipinterp"
